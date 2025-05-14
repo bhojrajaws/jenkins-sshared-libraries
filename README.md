@@ -1,1 +1,1 @@
-# jenkins-sshared-libraries
+# jenkins-shared-libraries
